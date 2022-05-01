@@ -1,0 +1,29 @@
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe.config
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.pdb
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csprojAssemblyReference.cache
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Form1.resources
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Properties.Resources.resources
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.GenerateResource.cache
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.exe
+C:\Users\Mariel\source\repos\2020\Computación\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.pdb
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe.config
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.pdb
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csprojAssemblyReference.cache
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Form1.resources
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Properties.Resources.resources
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.GenerateResource.cache
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.exe
+C:\Users\Andrés\source\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.pdb
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe.config
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.exe
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\bin\Debug\Infix a Postfix.pdb
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.AssemblyReference.cache
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Form1.resources
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix_a_Postfix.Properties.Resources.resources
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.GenerateResource.cache
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.exe
+C:\Users\Andres\OneDrive\Documents\Suizo\programas y paginas\C#\repos\Infix a Postfix\Infix a Postfix\obj\Debug\Infix a Postfix.pdb
